@@ -8,5 +8,4 @@ spec:
     ports:
     - port: 8080 
     selector:
-        app: troubleshooting-dev
-        
+        app: troubleshooting
